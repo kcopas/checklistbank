@@ -2,7 +2,7 @@
 Darwin Core archive can be used to publish taxonomic or nomenclatoral datasets which GBIF generically calls ___checklists___. GBIF has published various documents that guide publishers in crafting archives:
 
  - [Publishing Species Checklists, Best Practices](http://www.gbif.org/resources/2548)
- - [GBIF GNA Profile Reference Guide for Darwin Core Archive, Core Terms and Extensions](http://www.gbif.org/resources/2562)
+ - [GBIF GNA Profile Reference Guide for Darwin Core Archive, Core Terms and Extensions](https://doi.org/10.5281/zenodo.3463261)
  - [Publishing Species Checklists, Step-by-Step Guide](http://www.gbif.org/resources/2514)
  - [Best practice guide for compiling, maintaining, disseminating national species checklists](http://www.gbif.org/resources/2306)
  - [Best practice guidelines in the development and maintenance of regional marine species checklists](http://www.gbif.org/resources/2357)
